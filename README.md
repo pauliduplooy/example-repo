@@ -1,5 +1,4 @@
-# example-repo
-OOP - Synthesis Practical Task
+# OOP - Synthesis Practical Task
 Inventory management system for a Nike warehouse.
 
 This program allows store managers to:
